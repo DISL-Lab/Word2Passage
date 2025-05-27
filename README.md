@@ -307,10 +307,10 @@ If you found the accompanying code useful for your research, we kindly encourage
 
 ```bash
 @inproceedings{choi2025word2passage,
-  author       = {Jeonghwan Choi and
-                  Minjeong Ban and
-                  Minseok Kim and
-                  Hwanjun Song},
+  author       = {Jeonghwan, Choi and
+                  Minjeong, Ban and
+                  Minseok, Kim and
+                  Hwanjun, Song},
   title        = {Word2Passage : Word-level Importance Re-weighting for Query Expansion},
   booktitle={},
   year={2025},
