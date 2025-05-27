@@ -312,9 +312,8 @@ If you found the accompanying code useful for your research, we kindly encourage
                   Minseok, Kim and
                   Hwanjun, Song},
   title        = {Word2Passage : Word-level Importance Re-weighting for Query Expansion},
-  booktitle={},
+  booktitle={ACL},
   year={2025},
-  url={}
   }
 ```
 ---
